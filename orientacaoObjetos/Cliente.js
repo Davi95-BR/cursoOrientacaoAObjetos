@@ -1,3 +1,5 @@
+"use strich"
+
 //Molde de class com definições de atributos a serem colocados
 export class Cliente{
 

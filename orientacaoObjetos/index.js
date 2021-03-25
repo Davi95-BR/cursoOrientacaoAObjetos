@@ -1,4 +1,6 @@
-                     /* Aulas de criação e interações de contas
+"use strich"
+
+/* Aulas de criação e interações de contas
 
 
 import { Cliente } from "./Cliente.js"
@@ -35,10 +37,10 @@ console.log(conta2,conta1);
 
 
 
-*/
+*/ -->
 
 
-                        /* Aula de criação e interações de funcionários */
+/* Aula de criação e interações de funcionários */
 
 
 

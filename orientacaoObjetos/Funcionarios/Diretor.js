@@ -1,3 +1,5 @@
+"use strich"
+
 import { Funcionario } from "./Funcionario.js"
 
 

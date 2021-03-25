@@ -1,3 +1,5 @@
+"use strich"
+
 //Classe abstrata é herdada e nunca chamada diretamente
 export class Conta {
     constructor(saldoInicial, cliente, agencia) {

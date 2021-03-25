@@ -1,3 +1,5 @@
+"use strich"
+
 export class SistemaAutenticacao {
 	static login(autenticavel, senha){
 		if(SistemaAutenticacao.ehAutenticavel(autenticavel)){

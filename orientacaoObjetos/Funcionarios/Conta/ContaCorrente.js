@@ -1,3 +1,5 @@
+"use strich"
+
 import { Conta } from "./Conta.js"
 
 // Exportando a classe e extendendo a classe Conta tbm
